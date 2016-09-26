@@ -16,19 +16,19 @@
         "tests"
     ],
     "dependencies": {
-        "jquery"                    : "*",
-        "jquery-ui"                 : "*",
-        "momentjs"                  : "*",
-        "underscore"                : ">=1.0.0 <2.0",
-        "modernizr"                 : ">=2.5.0 <3.0",
-        "spinjs"                    : "*",
-        "pickadate"                 : "*",
-        "holderjs"                  : "*",
-        "bootflat"                  : "*",
-        "bootbox"                   : "*",
-        "fontawesome"               : "*",
-        "ionicons"                  : "*",
-        "fullcalendar"              : "*",
-        "adminlte"                  : ">=2.0.0 <3.0"
+        "jquery"                    : "3.1.0",
+        "jquery-ui"                 : "1.12.1",
+        "momentjs"                  : "2.15.0",
+        "underscore"                : "1.8.3",
+        "modernizr"                 : "2.8.3",
+        "spinjs"                    : "2.3.2",
+        "pickadate"                 : "3.5.6",
+        "holderjs"                  : "2.9.4",
+        "bootflat"                  : "https://github.com/flathemes/bootflat.git#affdd96590",
+        "bootbox"                   : "4.4.0",
+        "fontawesome"               : "4.6.3",
+        "ionicons"                  : "2.0.1",
+        "fullcalendar"              : "3.0.0",
+        "adminlte"                  : "2.3.6"
     }
 }
