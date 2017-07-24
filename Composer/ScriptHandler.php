@@ -114,10 +114,6 @@ class ScriptHandler {
             $arguments = $phpFinder->findArguments();
         }
 
-        if (false !== $ini = php_ini_loaded_file()) {
-            $arguments[] = '--php-ini='.$ini;
-        }
-
         return $arguments;
     }
 
@@ -161,4 +157,4 @@ class ScriptHandler {
 
         return true;
     }
-} 
+}
